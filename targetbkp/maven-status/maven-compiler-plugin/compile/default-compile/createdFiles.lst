@@ -1,0 +1,7 @@
+com/example/demo/services/MyConfiguration.class
+com/example/demo/controller/EscolaController.class
+com/example/demo/services/UrlService.class
+com/example/demo/model/Pessoa.class
+com/example/demo/EscolaApplication.class
+com/example/demo/services/ServiceTest.class
+com/example/demo/ServletInitializer.class
